@@ -32,13 +32,13 @@ Matplotlib & Seaborn for data visualization
 Jupyter Notebook for workflow
 
 🚀 Project Workflow
-##Data Loading & Inspection
+# #Data Loading & Inspection
 
 Loaded the dataset into Pandas DataFrame.
 
 Checked data types, shape, and basic statistics.
 
-##Data Cleaning
+# #Data Cleaning
 
 Identified and handled missing values.
 
@@ -52,13 +52,13 @@ Explored individual feature distributions.
 
 Visualized age, BMI, calorie intake using histograms and count plots.
 
-##Bivariate & Multivariate Analysis
+# #Bivariate & Multivariate Analysis
 
 Examined correlations between BMI and lifestyle factors.
 
 Visualized using scatter plots, boxplots, and heatmaps.
 
-##Insights & Findings
+# #Insights & Findings
 
 Identified lifestyle habits strongly linked with higher BMI.
 
