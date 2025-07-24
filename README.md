@@ -1,6 +1,9 @@
 # EDA-obesity-lifestyle
 🩺 Obesity & Lifestyle EDA
 📊 Exploratory Data Analysis on Obesity and Lifestyle Factors
+✨ Status: Completed
+📝 Language: Python
+
 📝 Project Description
 This project performs an in-depth Exploratory Data Analysis (EDA) on a dataset related to obesity and lifestyle factors. The objective is to uncover patterns, trends, and correlations that influence obesity levels, supporting future work in health analytics, machine learning, and public health recommendations.
 
