@@ -1,0 +1,19 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+
+
+Explanation
+pandas – data loading and manipulation
+
+numpy – numerical computations
+
+matplotlib – plotting graphs
+
+seaborn – advanced visualizations
+
+scipy – hypothesis testing and statistical functions
+
